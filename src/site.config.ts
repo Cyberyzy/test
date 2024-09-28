@@ -2,11 +2,11 @@ import type { SiteConfig, MenuLinks, SocialLinks } from '@/types'
 
 export const siteConfig: SiteConfig = {
   // Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
-  author: 'CWorld / Arthals',
+  author: 'ericyang',
   // Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
-  title: 'Astro Theme Pure',
+  title: 'Eric Yang',
   // Meta property used to generate your sitemap and canonical URLs in your final build
-  site: 'https://theme-astro-pure.vercel.app',
+  site: 'https://cyberyzy.github.io',
   // Meta property used as the default description meta property
   description: 'Stay hungry, stay foolish',
   // HTML lang property, found in src/layouts/Base.astro L:18
@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   },
   walineServerUrl: 'https://astro-theme-pure-waline.arthals.ink',
   applyFriendTip: {
-    name: 'Astro Theme Pure',
+    name: 'Eric Yang',
     slogan: '求知若愚，虚怀若谷',
     url: 'https://astro-theme-pure.vercel.app/',
     avatar: 'https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200'
@@ -45,7 +45,7 @@ export const socialLinks: SocialLinks = [
   // },
   {
     name: 'github',
-    url: 'https://github.com/cworld1/theme-astro-pure'
+    url: 'https://github.com/Cyberyzy'
   }
 ]
 
