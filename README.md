@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Theme Astro Pure
 
 [English](./README.md) | [简体中文](./README-zh-CN.md)
@@ -64,3 +65,6 @@ To spend more time coding and less time fiddling with whitespace, this project u
 ## License
 
 This project is licensed under the Apache 2.0 License.
+=======
+# test
+>>>>>>> origin/master
