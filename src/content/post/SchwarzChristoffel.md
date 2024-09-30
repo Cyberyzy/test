@@ -1,5 +1,5 @@
 ---
-title: Schwarz Christoffel Theorem
+title: Schwarz Christoffel 定理
 publishDate: 2023-05-26 21:42:41
 description: ''
 tags:
@@ -7,9 +7,9 @@ tags:
 language: '中文'
 ---
 
-整理一些关于共形映射的算例
-
 ## 初等函数
+
+整理一些关于共形映射的算例
 
 1. sinz
 
