@@ -6,9 +6,7 @@ tags:
      - Translation
      - Borges
 description: 'What can I hold you with?'
-language: 
-     - English
-     - '中文'
+language: '中文'
 ---
 What can I hold you with?
 
