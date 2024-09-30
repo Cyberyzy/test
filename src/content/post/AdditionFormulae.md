@@ -1,11 +1,11 @@
 ---
-title: Addition Formulae
-date: 2023-05-08 18:18:57
-author: "Yin Haomin"
-mathjax: true
+title: Addition Formular
+publishDate: 2024-07-27 08:00:00
+description: 'Introduction to addition formularrr~💩'
+tags:
+  - Complex Analysis
+language: 'English'
 ---
-
-Introduction to addition formularrr~💩 $ \LaTeX $
 
 <!--more-->
 
