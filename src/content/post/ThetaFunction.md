@@ -1,7 +1,9 @@
 ---
 title: Theta Function
 publishDate: 2023-05-13 21:05:19
-tags: Complex Analysis
+tags:
+  - Complex Analysis
+  - Lecture Notes
 description: 'Introduction of Theta Function'
 language: 'English'
 ---
