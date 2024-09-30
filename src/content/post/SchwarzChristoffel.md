@@ -1,12 +1,13 @@
 ---
 title: Schwarz Christoffel Theorem
 publishDate: 2023-05-26 21:42:41
-description: '整理一些关于共形映射的算例'
+description: ''
 tags:
   - Complex Analysis
 language: '中文'
 ---
 
+整理一些关于共形映射的算例
 
 ## 初等函数
 
