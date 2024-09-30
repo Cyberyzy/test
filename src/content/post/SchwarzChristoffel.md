@@ -4,7 +4,9 @@ publishDate: 2023-05-26 21:42:41
 description: '整理一些关于共形映射的算例'
 tags:
   - Complex Analysis
-language: 'English'
+language: 
+  - 'English'
+  - '中文'
 ---
 
 
