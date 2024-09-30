@@ -102,7 +102,8 @@ $$
 
 ## P277 Exercise 5
 
-Prove $$
+Prove
+$$
     \wp(2z)=\frac{1}{4}\left(\frac{\wp''(z)}{\wp'(z)}\right)^2-2\wp(z)
 $$
 
@@ -113,7 +114,7 @@ $$
     \wp(z+u)=-\wp(z)-\wp(u)+\frac{1}{4}\bigg(\frac{\wp'(z)-\wp'(u)}{\wp(z)-\wp(u)}\bigg)^2
 $$
 
-令$ u=z+\Delta z $,则
+令 $u=z+\Delta z$,则
 $$
 \begin{align*}
     \wp(2z+\Delta z)&=-\wp(z)-\wp(z+\Delta z)\\\\
@@ -133,23 +134,26 @@ $$
 \end{align*}
 $$
 
-则$$
-    \wp(2z)=\frac{1}{4}\left(\frac{\wp''(z)}{\wp'(z)}\right)^2-2\wp(z)
+则
+$$
+\wp(2z)=\frac{1}{4}\left(\frac{\wp''(z)}{\wp'(z)}\right)^2-2\wp(z)
 $$
 
 ## P277 Exercise 6
 
 Prove
 $$
-    \wp'(z)=-\sigma(2z)/\sigma(z)^4
+\wp'(z)=-\sigma(2z)/\sigma(z)^4
 $$
 
 ## Solution 6
 
-注意到右侧极点为$ z=0 $,且为3阶极点，而零点则为$$
+注意到右侧极点为 $z=0$,且为3阶极点，而零点则为
+$$
     \frac{\omega_1}{2},\space\frac{\omega_2}{2},\space\frac{\omega_1+\omega_2}{2}
 $$
-事实上有$$
+事实上有
+$$
     -\sigma(\omega_1)/\sigma(\omega_1/2)^4=-\frac{\sigma(0)e^{\eta_1\omega_1/2}}{\sigma(\omega_1/2)^4}=0
 $$
 
@@ -162,7 +166,7 @@ $$
 \end{align*}
 $$
 
-同理可证$ \omega_2 $也是周期， 由此可得
+同理可证 $\omega_2$ 也是周期， 由此可得
 $$
     \wp'(z)=-\sigma(2z)/\sigma(z)^4
 $$
