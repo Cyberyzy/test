@@ -31,8 +31,8 @@ export const siteConfig: SiteConfig = {
   walineServerUrl: 'https://astro-theme-pure-waline.arthals.ink',
   applyFriendTip: {
     name: 'Eric Yang',
-    slogan: '求知若愚，虚怀若谷',
-    url: 'https://astro-theme-pure.vercel.app/',
+    slogan: '顺其自然，一切如故',
+    url: 'https://er1zy.top',
     avatar: 'https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200'
   }
 }

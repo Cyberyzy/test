@@ -11,11 +11,6 @@ import alipay from '@/assets/alipay-qrcode.jpg'
 const headings = [
   {
     depth: 2,
-    slug: 'theme',
-    text: 'Theme'
-  },
-  {
-    depth: 2,
     slug: 'programs',
     text: 'Programs'
   },
@@ -24,21 +19,6 @@ const headings = [
     slug: 'learnings',
     text: 'Learnings'
   },
-  {
-    depth: 2,
-    slug: 'others',
-    text: 'Others'
-  },
-  {
-    depth: 2,
-    slug: 'gpg-signature',
-    text: 'GPG Signature'
-  },
-  {
-    depth: 2,
-    slug: 'sponsorship',
-    text: 'Sponsorship'
-  }
 ]
 ---
 
@@ -70,6 +50,18 @@ const headings = [
     ]}
   />
 
+  <h2 id='programs'>Learning</h2>
+  <ProjectSection
+    project={[
+      {
+        name: 'CS61B',
+        description: 'Now I'm learning data structure in class CS61B',
+        links: [
+          { type: 'github', href: 'https://er1zy.top' },
+        ]
+      }
+    ]}
+  />
 <script is:inline type='module' data-astro-rerun>
   import { pageviewCount } from 'https://unpkg.com/@waline/client@v3/dist/pageview.js'
 

@@ -16,23 +16,8 @@ const headings = [
   },
   {
     depth: 2,
-    slug: 'tools',
-    text: 'Tools'
-  },
-  {
-    depth: 2,
-    slug: 'social-networks',
-    text: 'Social Networks'
-  },
-  {
-    depth: 2,
-    slug: 'gossips',
-    text: 'Gossips'
-  },
-  {
-    depth: 2,
     slug: 'about-blog',
-    text: 'About Blog'
+    text: 'About Blog and Me'
   }
 ]
 ---
@@ -55,14 +40,19 @@ const headings = [
   </ul>
 
   <!-- about-blog -->
-  <h2 id='about-blog'>About Theme</h2>
+  <h2 id='about-blog'>Timeline</h2>
   <Timeline
     events={[
       {
         date: '2022-02-20',
         content:
           'The blog was built🥳'
-      }
+      },
+      {
+        date: '2024-09-30',
+        content:
+          'I was admitted as a fulltime master in Tsinghua University. Three more years here!😇'
+      },
     ]}
   />
   <p>
