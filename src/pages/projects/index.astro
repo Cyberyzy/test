@@ -50,19 +50,28 @@ const headings = [
     ]}
   />
 
-  <h2 id='learnings'>Learnings</h2>
+<h2 id='learnings'>Learnings</h2>
   <ProjectSection
+    class='my-2'
     project={[
       {
-        name: 'CS61B',
-        description: 'Now I'm learning data structure in class CS61B',
+        name: 'CS61B Learning',
+        description: 'Projects and labs and homework of CS61B',
+        links: [{ type: 'github', href: 'https://github.com/Cyberyzy' }]
+      },
+      {
+        name: 'Rust learning',
+        description: 'Project written in Rust',
         links: [
-          { type: 'github', href: 'https://er1zy.top' },
+          {
+            type: 'github',
+            href: 'https://github.com/Cyberyzy'
+          }
         ]
       }
     ]}
   />
-  
+
 <script is:inline type='module' data-astro-rerun>
   import { pageviewCount } from 'https://unpkg.com/@waline/client@v3/dist/pageview.js'
 
